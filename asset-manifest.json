@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-deploy.git/static/css/main.c34a4f03.chunk.css",
+    "main.js": "/react-deploy.git/static/js/main.c840f6e5.chunk.js",
+    "main.js.map": "/react-deploy.git/static/js/main.c840f6e5.chunk.js.map",
+    "runtime~main.js": "/react-deploy.git/static/js/runtime~main.34c0aa00.js",
+    "runtime~main.js.map": "/react-deploy.git/static/js/runtime~main.34c0aa00.js.map",
+    "static/js/2.d0829338.chunk.js": "/react-deploy.git/static/js/2.d0829338.chunk.js",
+    "static/js/2.d0829338.chunk.js.map": "/react-deploy.git/static/js/2.d0829338.chunk.js.map",
+    "index.html": "/react-deploy.git/index.html",
+    "precache-manifest.5fe993c919aa27bc03d90f8db2ac730b.js": "/react-deploy.git/precache-manifest.5fe993c919aa27bc03d90f8db2ac730b.js",
+    "service-worker.js": "/react-deploy.git/service-worker.js",
+    "static/css/main.c34a4f03.chunk.css.map": "/react-deploy.git/static/css/main.c34a4f03.chunk.css.map"
+  }
+}
